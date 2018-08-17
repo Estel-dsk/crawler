@@ -1,6 +1,6 @@
 
-from lxml import etree
-import requests
+from lxml import etree #解析模块
+import requests #请求模块
 import time
 
 for a in range(10):
