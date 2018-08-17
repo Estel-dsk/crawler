@@ -1,9 +1,6 @@
 from lxml import etree
 import requests
 import time
-'''
-获取home前5页的全部房源信息
-'''
 
 url = 'http://xf.m.pinganfang.com/sh'
 # requests.get()返回的是URL的响应码200，
